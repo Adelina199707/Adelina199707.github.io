@@ -3,7 +3,7 @@ Here you'll find a summary of my CV with some relevant links:
 
 # Contact Information
  :house: Address: Chemin des Mérinos 4, 1212 Lancy, Genève (CH)  
- :telephone_receiver: telephone: +41 76 747 64 26  
+ :telephone_receiver: Telephone: +41 76 747 64 26  
  :email: Email: adelinaracaj@live.it  
  :date: Date of Birth: 08.07.1997  
  :it: Nationality: Italian  
