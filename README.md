@@ -22,7 +22,7 @@ Here you'll find a summary of my CV with some relevant links:
 
 ## [University of Innsbruck](https://www.uibk.ac.at/), AT 
 - **Combined Bachelor’s Degree in [Translation and Interpreting](https://www.uibk.ac.at/studium/angebot/ba-translationswissenschaft/index.html.en)**  (average grade:1.7)
- - German (A-language), English, French, Italian (B-languages)
+   - German (A-language), English, French, Italian (B-languages)
 
 ## [Heriot-Watt University](https://www.hw.ac.uk/), Edinburgh, UK
 - Erasmus stay abroad: **[Translation and Interpreting Studies](https://www.hw.ac.uk/uk/study/undergraduate/languages-interpreting-and-translating-french-german.htm)**  (average grade: 1.1)
