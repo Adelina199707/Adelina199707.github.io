@@ -11,10 +11,10 @@ Here you'll find a summary of my CV with some relevant links:
  
 # Professional Experience
 ## [Roche Diagnostics AG](https://www.roche.com/about/business/diagnostics.htm), Rotkreuz, CH
-- Intern in Technical Documentation in the GCS CPS & SIS Core Lab Documentation Department
+- Intern in Technical Documentation in the *GCS CPS & SIS Core Lab Documentation Department*
 
 ## [KRONES](https://www.krones.com/en/index.php), Neutraubling, DE 
-- Intern in Translation and Terminology in the Global eBuisness and Digital Data Management Department
+- Intern in Translation and Terminology in the *Global eBuisness and Digital Data Management Department*
 
 # Academic Background
 ## [University of Geneva](https://www.unige.ch/), CH 
