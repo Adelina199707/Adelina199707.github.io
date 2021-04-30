@@ -1,4 +1,4 @@
-# index.html
+# Adelina Racaj
 Here you'll find a summary of my CV with some relevant links:
 
 # Contact Information
@@ -11,21 +11,21 @@ Here you'll find a summary of my CV with some relevant links:
  
 # Professional Experience
 ## [Roche Diagnostics AG](https://www.roche.com/about/business/diagnostics.htm), Rotkreuz, CH
-Intern in Technical Documentation in the GCS CPS & SIS Core Lab Documentation Department
+- Intern in Technical Documentation in the GCS CPS & SIS Core Lab Documentation Department
 
 ## [KRONES](https://www.krones.com/en/index.php), Neutraubling, DE 
-Intern in Translation and Terminology in the Global eBuisness and Digital Data Management Department
+- Intern in Translation and Terminology in the Global eBuisness and Digital Data Management Department
 
 # Academic Background
 ## [University of Geneva](https://www.unige.ch/), CH 
-**Master’s Degree in [Multilingual Communication Technology](https://www.unige.ch/fti/en/enseignements/ma-tim/)**
+- **Master’s Degree in [Multilingual Communication Technology](https://www.unige.ch/fti/en/enseignements/ma-tim/)**
 
 ## [University of Innsbruck](https://www.uibk.ac.at/), AT 
-**Combined Bachelor’s Degree in [Translation and Interpreting](https://www.uibk.ac.at/studium/angebot/ba-translationswissenschaft/index.html.en)**  (average grade:1.7)
-- German (A-language), English, French, Italian (B-languages)
+- **Combined Bachelor’s Degree in [Translation and Interpreting](https://www.uibk.ac.at/studium/angebot/ba-translationswissenschaft/index.html.en)**  (average grade:1.7)
+ - German (A-language), English, French, Italian (B-languages)
 
 ## [Heriot-Watt University](https://www.hw.ac.uk/), Edinburgh, UK
-Erasmus stay abroad: **[Translation and Interpreting Studies](https://www.hw.ac.uk/uk/study/undergraduate/languages-interpreting-and-translating-french-german.htm)**  (average grade: 1.1)
+- Erasmus stay abroad: **[Translation and Interpreting Studies](https://www.hw.ac.uk/uk/study/undergraduate/languages-interpreting-and-translating-french-german.htm)**  (average grade: 1.1)
 
 # Programming Skills
 **Programming languages** | **Markup languages**
