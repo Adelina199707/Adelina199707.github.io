@@ -27,6 +27,7 @@ Intern in Translation and Terminology in the Global eBuisness and Digital Data M
 ## [Heriot-Watt University](https://www.hw.ac.uk/), Edinburgh, UK
 Erasmus stay abroad: **[Translation and Interpreting Studies](https://www.hw.ac.uk/uk/study/undergraduate/languages-interpreting-and-translating-french-german.htm)**  (average grade: 1.1)
 
+# Programming Skills
 **Programming languages** | **Markup languages**
 ------------ | -------------
 JavaScript & Python (basic level) | HTML, XML, XSL, XPath, XML Schema
