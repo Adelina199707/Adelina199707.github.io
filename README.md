@@ -2,11 +2,11 @@
 Here you'll find a summary of my CV with some relevant links:
 
 # Contact Information
- :house: Address: Chemin des Mérinos 4, 1212 Lancy, Genève (CH) 
+ :house: Address: Chemin des Mérinos 4, 1212 Lancy, Genève (CH)  
  :telephone_receiver: telephone: +41 76 747 64 26  
  :email: Email: adelinaracaj@live.it  
  :date: Date of Birth: 08.07.1997  
- :it:Nationality: Italian  
+ :it: Nationality: Italian  
  
  
 # Professional Experience
@@ -17,14 +17,14 @@ Intern in Technical Documentation in the GCS CPS & SIS Core Lab Documentation De
 Intern in Translation and Terminology in the Global eBuisness and Digital Data Management Department
 
 # Academic Background
-## University of Geneva, CH 
+## [University of Geneva](https://www.unige.ch/), CH 
 **Master’s Degree in [Multilingual Communication Technology](https://www.unige.ch/fti/en/enseignements/ma-tim/)**
 
-## University of Innsbruck, AT 
+## [University of Innsbruck](https://www.uibk.ac.at/), AT 
 **Combined Bachelor’s Degree in [Translation and Interpreting](https://www.uibk.ac.at/studium/angebot/ba-translationswissenschaft/index.html.en)**  (average grade:1.7)
 - German (A-language), English, French, Italian (B-languages)
 
-## Heriot-Watt University, Edinburgh, UK
+## [Heriot-Watt University](https://www.hw.ac.uk/), Edinburgh, UK
 Erasmus stay abroad: **[Translation and Interpreting Studies](https://www.hw.ac.uk/uk/study/undergraduate/languages-interpreting-and-translating-french-german.htm)**  (average grade: 1.1)
 
 **Programming languages** | **Markup languages**
